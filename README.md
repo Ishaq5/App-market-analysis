@@ -9,4 +9,4 @@ and hidden information might be useful or intersting.**
 
 ## Methodology
 Using basic functions and loops, I attempt not to use data wrangling libraries like numpy and pandas
-for this project.
+for analysis in this project.
